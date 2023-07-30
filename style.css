@@ -1,7 +1,18 @@
 body{
  background-color: aqua;
 }
-
-.heading_1{
+ /* class for h1 tag */
+.heading_1{ 
     color: red;
 }
+.name{
+    color: brown; 
+    background-color: green ;
+}
+
+
+
+    
+
+
+ 
