@@ -21,7 +21,7 @@ nesting in HTML means when one element is inside another example below :
 
 <p>
     this my project 
-    <a href <a href="https://www.w3schools.com"> W3 schools</a>
+    <a href href="https://www.w3schools.com"> W3 schools</a>
     </p>
 
 
@@ -36,3 +36,7 @@ img   has a attribute element called src inside the code
 inside the content of the a tag you have have a hyperlink inside a img element
 
 if you do h1 class you can change the attribute of h1 like color and positioning etc.
+
+if have multiple element example multiple h1 element ad a class element inside it to specificly change the styling of the siginificant element 
+
+to do a box model have a div class name the class then do the background color, width and border for the code to work .

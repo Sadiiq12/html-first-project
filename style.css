@@ -1,18 +1,7 @@
-body{
- background-color: aqua;
+
+
+.box1{
+    background-color: yellow;
+    width: 20%;
+    border: 5px solid black; 
 }
- /* class for h1 tag */
-.heading_1{ 
-    color: red;
-}
-.name{
-    color: brown; 
-    background-color: green ;
-}
-
-
-
-    
-
-
- 
